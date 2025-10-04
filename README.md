@@ -42,6 +42,7 @@ This repository contains a collection of C++ programs, ranging from basic exampl
 | 32   | 31. Smallest & largest (with index) in an array.cpp | [View](https://github.com/VirajsNexus/PROGRAMMING-IN-CPP/blob/main/31.%20Smallest%20%26%20largest%20(with%20index)%20in%20an%20array.cpp) |
 | 33   | Singleton_class (voidDeri).cpp | [View](https://github.com/VirajsNexus/PROGRAMMING-IN-CPP/blob/main/Singleton_class%20(voidDeri).cpp) |
 | 34   | Virtual (voidDeri).cpp | [View](https://github.com/VirajsNexus/PROGRAMMING-IN-CPP/blob/main/Virtual%20(voidDeri).cpp) |
+| 35   | Singly_Linked_List.c|[View](https://github.com/VirajsNexus/PROGRAMMING-IN-CPP/blob/main/singly_linked_list.c)|
 
 
 ## Features and Functionality
